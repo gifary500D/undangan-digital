@@ -8,37 +8,63 @@
 <!-- Navbar -->
 <nav class="fixed top-0 left-0 z-10 w-full bg-white shadow-md">
 	<div class="mx-auto flex max-w-5xl items-center justify-between px-4 py-3">
-		<span class="text-xl font-bold text-purple-600">{namaPria} ❤️ {namaWanita}</span>
-		<ul class="flex gap-4 text-sm text-gray-600">
+		<p class="text-xl font-bold text-purple-600">
+			<span class="text-pink-600">{namaPria}</span> ❤️ {namaWanita}
+		</p>
+		<ul class="text-md flex gap-4 text-gray-600">
 			<li>
-				<a href="/" class="hover:text-purple-700">Kembali ke Awal</a>
+				<a href="/" class="text-bold text-lg text-teal-600 hover:text-purple-700">Kembali</a>
 			</li>
 		</ul>
 	</div>
 </nav>
 
-<section class="mt-10 bg-purple-50 px-4 py-16 text-center">
-	<h3 class="mb-6 text-2xl font-bold text-purple-800">Kenangan Kami</h3>
+<section class="mt-10 rounded-md bg-purple-200 px-4 py-12 text-center">
+	<h3 class="mb-6 text-4xl font-bold text-purple-800">
+		Kenangan<span class="text-2xl text-pink-600"> Kami </span>
+	</h3>
+
+	<blockquote class="mx-auto max-w-2xl pb-4 text-lg text-gray-700 italic dark:text-gray-300">
+		" <span class="text-2xl font-semibold text-pink-700">Cinta</span> tidak menciptakan pernikahan.
+		Pernikahan yang sadar, terencana, menciptakan
+		<span class="text-2xl font-semibold text-pink-700">Cinta</span>. Hal yang sama terjadi dalam
+		semua hubungan. ” <br />
+		<span class="mt-2 block font-semibold text-purple-700 dark:text-purple-400"
+			>- Harville Hendrix</span
+		>
+	</blockquote>
+
 	<div
 		class="mx-auto grid max-w-4xl grid-cols-1 justify-items-center gap-4 sm:grid-cols-2 md:grid-cols-3"
 	>
 		<img
-			src="https://picsum.photos/id/1015/400/300"
+			src="https://picsum.photos/id/1014/400/300"
 			alt="Kenangan 1"
-			class="transistion rounded-lg shadow-md duration-300 ease-in-out hover:scale-105 hover:rotate-6 hover:shadow-2xl"
-		/>
-		<img
-			src="https://picsum.photos/id/1015/400/300"
-			alt="Kenangan 1"
-			class="transistion rounded-lg shadow-md duration-300 ease-in-out hover:scale-105 hover:shadow-2xl"
+			class="transistion rounded-lg shadow-md duration-300 ease-in-out hover:scale-105 hover:rotate-2 hover:border-4 hover:border-pink-600 hover:shadow-2xl"
 		/><img
 			src="https://picsum.photos/id/1015/400/300"
 			alt="Kenangan 1"
-			class="transistion rounded-lg shadow-md duration-300 ease-in-out hover:scale-105 hover:shadow-2xl"
+			class="transistion rounded-lg shadow-md duration-300 ease-in-out hover:scale-105 hover:rotate-2 hover:border-4 hover:border-pink-600 hover:shadow-2xl"
 		/><img
-			src="https://picsum.photos/id/1015/400/300"
+			src="https://picsum.photos/id/1016/400/300"
 			alt="Kenangan 1"
-			class="transistion rounded-lg shadow-md duration-300 ease-in-out hover:scale-105 hover:shadow-2xl"
+			class="transistion rounded-lg shadow-md duration-300 ease-in-out hover:scale-105 hover:rotate-2 hover:border-4 hover:border-pink-600 hover:shadow-2xl"
+		/><img
+			src="https://picsum.photos/id/1021/400/300"
+			alt="Kenangan 1"
+			class="transistion rounded-lg shadow-md duration-300 ease-in-out hover:scale-105 hover:rotate-2 hover:border-4 hover:border-pink-600 hover:shadow-2xl"
+		/><img
+			src="https://picsum.photos/id/1018/400/300"
+			alt="Kenangan 1"
+			class="transistion rounded-lg shadow-md duration-300 ease-in-out hover:scale-105 hover:rotate-2 hover:border-4 hover:border-pink-600 hover:shadow-2xl"
+		/><img
+			src="https://picsum.photos/id/1019/400/300"
+			alt="Kenangan 1"
+			class="transistion rounded-lg shadow-md duration-300 ease-in-out hover:scale-105 hover:rotate-2 hover:border-4 hover:border-pink-600 hover:shadow-2xl"
+		/><img
+			src="https://picsum.photos/id/1020/400/300"
+			alt="Kenangan 1"
+			class="transistion rounded-lg shadow-md duration-300 ease-in-out hover:scale-105 hover:rotate-2 hover:border-4 hover:border-pink-600 hover:shadow-2xl"
 		/>
 	</div>
 </section>
