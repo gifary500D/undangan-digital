@@ -75,7 +75,7 @@
 >
 	<!-- Background image di belakang -->
 	<div
-		class="absolute inset-0 z-0 bg-[url('image/bg-nikah.jpg')] bg-cover bg-center opacity-10 dark:opacity-5"
+		class="absolute inset-0 z-0 bg-[url('image/bg-nikah.jpg')] bg-cover bg-center opacity-20 dark:opacity-5"
 	></div>
 
 	<!-- Kontainer konten utama -->
