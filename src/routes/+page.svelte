@@ -94,10 +94,11 @@
 			<h1 class="mb-4 text-4xl font-bold text-pink-700 dark:text-pink-300">Undangan Pernikahan</h1>
 			<p
 				style="font-family: 'Playfair Display', serif;"
-				class="mb-2 text-lg text-gray-800 dark:text-gray-200"
+				class="mb-4 text-center text-xl tracking-wide text-gray-700 italic dark:text-gray-200"
 			>
-				Kami mengundang Anda untuk hadir dalam acara pernikahan kami
+				We sincerely invite you to celebrate our wedding day
 			</p>
+
 			<h2
 				style="font-family: 'Playfair Display', serif;"
 				class="mt-4 pb-4 text-3xl font-semibold text-purple-800 dark:text-purple-200"
@@ -235,7 +236,7 @@
 	class="relative overflow-hidden rounded-t-full border-4 border-purple-700 bg-gray-50 px-4 pt-16 pb-10 text-center dark:border-purple-400 dark:bg-gray-900"
 >
 	<div
-		class="absolute inset-0 bg-[url('image/bg-nikah.jpg')] bg-cover bg-center opacity-50 dark:opacity-20"
+		class="absolute inset-0 bg-[url('/image/bg-nikah.jpg')] bg-cover bg-center opacity-20 dark:opacity-30"
 	></div>
 
 	<div class="relative z-10">
